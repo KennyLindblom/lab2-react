@@ -1,0 +1,26 @@
+
+
+
+  .container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .projects{
+    border: 1px solid black;
+    margin-left: 200px;
+    padding: 16px;
+    
+  }
+
+  .Loading{
+    border: 1px solid black;
+    margin-left: 200px;
+    padding: 16px;
+    margin-top: 200px;
+    
+  }
+
